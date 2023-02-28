@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * transverase through a tree
+ * binary_tree_preorder - transverase through a tree
  * @func: the function
  * @tree: the target
  */
